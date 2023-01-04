@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 My name is Aleks
+- 🔭 I’m currently working on running of the nodes, for example, massa, minima, defund and others...
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/7Qg3H6ITSQglwvVSCi/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/WT9wi81vtEhqt17SE4/giphy.gif" width="100"/>
+</div>
 
 <!--
 **sir1jackob/sir1jackob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
